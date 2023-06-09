@@ -17,3 +17,8 @@ Content-Type: application/json
   "username": "adam_richard",
   "password": "richard_567"
 }
+
+
+###
+get http://localhost:3002/user/tweets/feed/
+Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo3LCJuYW1lIjoiQWRhbSBSaWNoYXJkIiwidXNlcm5hbWUiOiJhZGFtX3JpY2hhcmQiLCJwYXNzd29yZCI6IiQyYiQxMCQ3clp6S0p3TXV0eDdoYTlDMVUySmRlNkRkZS9EdkdKNVRqbUpWUUlPUElSVkFvNE82L2h4QyIsImdlbmRlciI6Im1hbGUiLCJpYXQiOjE2ODYzMTk1NDV9.tNzLmvDdLkDzaXNOOAnfmg_UaI11oitxwhZkeRZvFJU
